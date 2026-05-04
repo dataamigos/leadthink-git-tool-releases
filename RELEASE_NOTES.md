@@ -20,4 +20,10 @@
 
 ## Installer
 
-Download `LeadThink Git Tool Setup 1.2.4.exe` from this release.
+Download `LeadThink Git Tool Setup 1.2.4.exe` from this release for Windows.
+
+For macOS:
+
+- Apple Silicon Macs: use `LeadThink Git Tool-1.2.4-arm64.dmg`
+- Intel Macs: use `LeadThink Git Tool-1.2.4.dmg`
+- ZIP packages are also included for advanced/manual installation.

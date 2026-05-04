@@ -12,6 +12,10 @@
 - Adds student-friendly Git Operations explanations.
 - Adds feedback after Commit, Pull, Push, Fetch, Branch, Merge, and project-folder actions.
 - Remembers the last selected local repo so Git Operations work after reopening the app.
+- Restores GitHub URL, member name, workspace, local repo, remote URL, and branch on the same machine.
+- Shows feedback when Connect Remote or Create GitHub repo from this folder is clicked.
+- Shows a friendly Git Operations message when no local repo is selected.
+- Makes Pull, Push, and Fetch visually equal so no one action looks like the only recommended one.
 - Shows the GitHub CLI login command: `gh auth login -w`.
 
 ## Installer
